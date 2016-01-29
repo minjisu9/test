@@ -1,5 +1,4 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
-<%@ include file="./ssi.jsp" %>
  
 <!DOCTYPE html> 
 <html lang="ko"> 
@@ -24,7 +23,7 @@
 <jsp:include page="/menu/top.jsp" flush='false' />
 <!-- ----------------------------------------- -->
  
-<DIV class='title'>Github 실습5</DIV>
+<DIV class='title'>Github 실습6</DIV>
  
 <DIV class='content'>
 <FORM name='frm' method='POST' action='./.jsp'>
